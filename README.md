@@ -1,7 +1,6 @@
 # Nail Polish Decisions Maker
 
 ## Overview
-This is a goofy project I'm using to help myself get acclimated to GitHub.
 I'm very indecisive when it comes to choosing a nail polish color, so this is supposed to help with that. 
 It'll improve as I improve!
 
